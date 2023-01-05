@@ -1,0 +1,29 @@
+.item {
+  cursor: pointer;
+}
+.item .img-caption {
+  bottom: 20px;
+  width: 80%;
+  left: 10%;
+  padding: 5px;
+  border-radius: 4px;
+}
+#light {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+#lightItem {
+  width: 40%;
+  height: 400px;
+  background-image: url();
+  background-size: 100% 100%;
+}
+#lightItem {
+  font-size: 20px;
+  cursor: pointer;
+}
